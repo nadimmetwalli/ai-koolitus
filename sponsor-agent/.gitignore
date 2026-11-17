@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+# Päris andmed ja failid ei lähe GitHubi
+data/*
+!data/sponsors_sample.csv
+attachments/*
+!attachments/.gitkeep
+!attachments/README.md
+drafts/*
+!drafts/.gitkeep
+*.xlsx
